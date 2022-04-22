@@ -6,15 +6,15 @@ Este proyecto permitirá una comunicación fluida entre el paciente y el especia
 [PRONTO]
 
 ## Equipo
-Manuel Jesús Marín Jiménez (IP)  
-Rafael Medina Carnicer  
-Rafael Muñoz Salinas  
-Rafael Aguilar Ortega  
+Manuel Jesús Marín Jiménez (IP - UCO/IMIBIC)  
+Rafael Medina Carnicer (UCO/IMIBIC)   
+Rafael Muñoz Salinas (UCO/IMIBIC)  
+Rafael Aguilar Ortega (UCO)  
 
-Miguel Ángel Olcina Meseguer  
-Antonio Cuevas Pérez
-Rafael Antonio Quevedo Reinoso
-Manuel García Marín
+Miguel Ángel Olcina Meseguer (HURS)    
+Antonio Cuevas Pérez (HURS)   
+Rafael Antonio Quevedo Reinoso (HURS)   
+Manuel García Marín (HNJ)  
 
 ## Entidades participantes
 Universidad de Córdoba, Instituto Maimónides de Investigación Biomédica de Córdoba, Hospital Universitario Reina Sofía, y Hospital Neurotraumatológico de Jaén.
